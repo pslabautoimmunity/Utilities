@@ -1,0 +1,14 @@
+name: pycistopic-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - anndata
+  - numba
+  - llvmlite
+  - cmake
+  - pip
